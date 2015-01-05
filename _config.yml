@@ -1,0 +1,29 @@
+# site name, displayed in the header
+name: Saurabh Pathak
+
+# site description, displayed in the header
+description: My views on everything under the sun.
+
+# profile pic URL, displayed in the header
+avatar: https://pbs.twimg.com/profile_images/378800000313374157/198d0eb14bb3238681e280ccc97aadf6.jpeg
+
+# used by _includes/svg-icons.html to generate footer
+footer-links:
+  linkedin: saurabhpathak
+  rss: sawrub
+  twitter: pathak_s
+  quora: Saurabh-Pathak
+  github: pathaks
+
+# used for sitemap.xml and RSS feed
+url: http://www.sawrub.com
+
+baseurl: ""
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+sass:
+  sass_dir: _scss
+  style: :compressed
