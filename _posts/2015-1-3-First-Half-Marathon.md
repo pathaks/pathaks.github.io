@@ -3,4 +3,4 @@ layout: post
 title: First Half Marathon!
 ---
 
-Running is fun!
+This blog post is being drafted but in the meantime remember that running is life changing!
